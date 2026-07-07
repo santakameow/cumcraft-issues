@@ -3,7 +3,6 @@ name: Bug Report
 about: Report a bug or issue with the Cumcraft modpack
 title: "[BUG] "
 labels: bug
-assignees: ''
 
 ---
 
@@ -24,10 +23,7 @@ assignees: ''
 
 ## Environment
 - **Modpack Version**: 
-- **Minecraft Version**: 
-- **Forge/Fabric Version**: 
 - **Operating System**: 
-- **Java Version**: 
 
 ## Screenshots/Videos
 <!-- If applicable, add screenshots or videos to help explain the problem -->
