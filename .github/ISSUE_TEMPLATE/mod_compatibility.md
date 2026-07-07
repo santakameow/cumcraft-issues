@@ -29,8 +29,6 @@ assignees: ''
 
 ## Environment
 - **Modpack Version**: 
-- **Minecraft Version**: 
-- **Forge/Fabric Version**: 
 - **Operating System**: 
 
 ## Screenshots/Crash Log
